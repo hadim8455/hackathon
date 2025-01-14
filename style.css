@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.head-1{
+    height: 64px;
+    background-color: #e7e7e2;
+    text-align: center;
+    
+}
+.head-1 a{
+    color: black;
+    
+} 
+
+    /* Navbar Start */
+
+.navbar{
+    width: 95%;
+    height: 80px;
+    
+}
+.Airbnd-logo{
+    color: #ff385c;
+}
+.nav-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-3 p{
+    text-align: center;
+}
+.world-logo{
+    color: black; 
+}
+
+                   /* Navbar End */
+
+
+                   /* Searchbar Start */
+
+.search-bar{
+    width: 850px;
+    height: 66px;
+    display: flex;
+    gap: 10px  ;
+    border-style: groove;
+    border-radius: 20px;
+}
+.search-bar input{
+    border: transparent;
+
+    
+} 
+
+.grid-2{
+    padding-top: 180px;
+}
+
+        /* footer start */
+.footer{
+    margin-top: 200px;
+    height: 439px;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: space-around;
+}
+.footer li{
+    list-style: none;
+}
+.footer h3{
+    margin-left: 30px;
+    font-size: 14px;
+}
+.footer li{
+    font-size: 14px;
+}
